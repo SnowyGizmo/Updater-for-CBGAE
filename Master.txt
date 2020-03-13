@@ -1,4 +1,4 @@
 
-<Version: 1.01>
-/data/Test.zip https://wordpress.org/latest.zip
+<Version: 1.02>
+/CBGAE/ https://mega.nz/#F!6j4ygYqJ!ilG9X2kde_PKCzgknhfa6w
 <End Of Version>
