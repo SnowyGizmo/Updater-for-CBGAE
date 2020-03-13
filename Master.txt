@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-/CBGAE/UpData.zip https://mega.nz/#F!6j4ygYqJ!ilG9X2kde_PKCzgknhfa6w
+/data/UpData.zip https://mega.nz/#F!6j4ygYqJ!ilG9X2kde_PKCzgknhfa6w
 <End Of Version>
