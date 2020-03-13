@@ -1,4 +1,4 @@
 
-<Version: 1.01>
+<Version: 1.02>
 /data/Updata.zip https://www.dropbox.com/sh/dv74bx7lcpsv1or/AADNLIaTwmAWrR1DDoG2KzWKa?dl=1
 <End Of Version>
